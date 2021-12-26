@@ -63,9 +63,9 @@ Users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
 
-![](./screenshot.jpg)
+### Screenshot
+![desktop-design](https://user-images.githubusercontent.com/40062598/147395763-82033eb0-71b5-4fbe-99ab-6a65e757be39.jpg)
 
 ### Links
 
@@ -92,8 +92,10 @@ Users should be able to:
 ```
 ```react
 const proudOfThisFunc = () => {
-  return(<div> 
-  '🎉' </div>
+  return(
+  <div> 
+   Hi I am KodeSage👨‍💻
+  </div>
   );
 }
 ```
